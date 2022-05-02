@@ -1,0 +1,13 @@
+general:
+
+  verbose: false
+
+steps:
+
+  # sapCumulusUpload:
+    # cumulusFileCredentialsId: 'cumulus-credentials'
+    # pipelineId: '66a9d99b-fd72-459c-9032-4c00950257b3'
+    
+  sapCreateTraceabilityReport:
+    deliveryMappingFile: 'delivery.mapping'
+    requirementMappingFile: 'jira.mapping'

@@ -1,0 +1,10 @@
+**/.DS_Store
+DS_Store
+*.png
+report.html
+package-lock.json
+node_modules/
+debug.log
+target/
+report.xml
+jira.mapping
